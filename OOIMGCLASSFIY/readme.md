@@ -1,0 +1,1 @@
+main.py文件为主函数运行文件，测试图片可以选择demo.bmp，样本样例详见test.txt
